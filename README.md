@@ -10,6 +10,7 @@
 <ul>
   <li>Responsive design 📱</li>
   <li>Add JavaScript 💻</li>
+  <li>Backend for orders or booking </li>
 </ul>
 <p> <strong>Resources</strong></p>
 <ul>
